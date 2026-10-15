@@ -24,4 +24,4 @@ Both the lab1 and lab2 rely on observations of seismic waves radiated from an ea
 - Week 6 : Q&A
 
 # **DDL**
-- 2021: **20-Sep-2021 17:00:00.000**
+- **20-Sep 17:00:00.000**
