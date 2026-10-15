@@ -11,10 +11,10 @@ Both the lab1 and lab2 rely on observations of seismic waves radiated from an ea
 
 
 - **When**: 
-  - 2020,2021: Every Wednesday 13:30-15:30 (TBD)
+  - Every Wednesday 13:30-15:30 (TBD)
 - **Where**: RSES Computing LAB (J8 Ground Floor)[map](https://www.google.com/maps/place/Jaeger+8/@-35.2837193,149.115299,18.75z/data=!4m12!1m6!3m5!1s0x345e61a9c2de99:0x1c74dd792f36cd66!2sANU+Research+School+of+Earth+Sciences!8m2!3d-35.2838867!4d149.1150271!3m4!1s0x6b164d8c98037cb3:0x137b95ded7380043!8m2!3d-35.2840535!4d149.1153078)
 - **Contact**: 
-  - 2020,2021: sheng.wang(at)anu.edu.au
+  - sheng.wang(at)anu.edu.au
  
 
 # Content
